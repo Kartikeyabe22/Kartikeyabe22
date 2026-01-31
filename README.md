@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Agnihotri</h1>
 <h3 align="center">Passionate about creating stuff</h3>
 
-- 🔭 I’m currently working on [Webb](https://play.google.com/store/apps/details?id=com.kartikeyaagnihotri.webb)
+- 🔭 Major Project [Universe](https://play.google.com/store/apps/details?id=com.kartikeyaagnihotri.webb)
 
-- 🌱 I’m currently learning **ML and DL**
+- 🌱 I’m currently learning **Gen AI & Agentic AI**
 
 - 💬 Ask me about **flutter , firebase**
 
